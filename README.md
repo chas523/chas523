@@ -9,3 +9,9 @@ I am a web developer. I tried different things before settling on this stack. I 
 
 
 ---
+
+### 🧰 Languages and Tools
+
+[![My Skills](https://skills.thijs.gg/icons?i=angular,ts,nodejs,git,linux,html,css,js,react,nodejs,github,bash,php,docker,nestjs,tailwind,bootstrap,mysql&theme=dark&perline=18)](https://skills.thijs.gg)
+
+#
