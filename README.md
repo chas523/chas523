@@ -15,3 +15,5 @@ I am a web developer. I tried different things before settling on this stack. I 
 [![My Skills](https://skills.thijs.gg/icons?i=angular,ts,nodejs,git,linux,html,css,js,react,nodejs,github,bash,php,docker,nestjs,tailwind,bootstrap,mysql&theme=dark&perline=18)](https://skills.thijs.gg)
 
 #
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chas523&show_icons=true&locale=en&layout=compact" alt="chas523"/</p>
