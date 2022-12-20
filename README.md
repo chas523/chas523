@@ -16,4 +16,3 @@ I am a full-stack web developer. I tried different things before settling on thi
 
 #
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chas523&show_icons=true&locale=en&layout=compact" alt="chas523"/</p>
