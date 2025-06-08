@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Sergey+Goishyk" alt="Typing SVG" />
 </p>
@@ -17,42 +16,57 @@
 
 ---
 
-<!-- About Me Section -->
-<h2 align="center">👨‍💻 About Me</h2>
+### About Me
 
-<p align="center">
-  I'm a passionate <b>Full-Stack Developer</b> with a strong foundation in both frontend and backend technologies. I specialize in building scalable, efficient, and modern web applications.<br>
-  <br>
-  <b>🌍 Based in Europe</b> <br>
-  <b>💬 Open to collaboration, mentoring, and innovative projects</b>
+Full-Stack Developer passionate about building scalable, efficient, and modern web applications.  
+Strong foundation in both frontend and backend technologies.  
+Open to collaboration, mentoring, and innovative projects.
+
+---
+
+### Tech Stack
+
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,nestjs,nodejs,express,python,django,php,symfony,html,css,sass,tailwind,redux,graphql,postgres,mysql,mongodb,redis,docker,aws,gcp,git,github,linux,wordpress" />
 </p>
 
 ---
 
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack</h2>
+### What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,nestjs,nodejs,express,python,django,html,css,sass,tailwind,redux,graphql,postgres,mysql,mongodb,redis,docker,aws,gcp,git,github,linux,wordpress" />
-</p>
+<table align="center" style="width:95%; max-width:700px; font-size:1.04em;">
+  <tr>
+    <td width="25%"><b>Front-End:</b></td>
+    <td>Modern interfaces with React, Angular, Next.js, and TypeScript. Focus on UX/UI and responsive design.</td>
+  </tr>
+  <tr>
+    <td><b>Back-End:</b></td>
+    <td>Robust APIs and business logic with Node.js, NestJS, Express, Python (Django), PHP (Symfony).</td>
+  </tr>
+  <tr>
+    <td><b>Databases:</b></td>
+    <td>PostgreSQL, MySQL, MongoDB, Redis.</td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps:</b></td>
+    <td>AWS, GCP, Docker, CI/CD pipelines.</td>
+  </tr>
+  <tr>
+    <td><b>CMS:</b></td>
+    <td>WordPress, Kirby CMS.</td>
+  </tr>
+  <tr>
+    <td><b>System Design:</b></td>
+    <td>Architecture, scalability, best practices.</td>
+  </tr>
+  <tr>
+    <td><b>Teamwork:</b></td>
+    <td>Leadership, agile, code reviews, mentoring.</td>
+  </tr>
+</table>
 
 ---
 
-<!-- Professional Highlights -->
-<h2 align="center">🚀 What I Do</h2>
-<ul>
-  <li>🌟 <b>Front-End:</b> React, Angular, Next.js, TypeScript, modern UI/UX</li>
-  <li>⚙️ <b>Back-End:</b> Node.js, NestJS, Express, Python, Django</li>
-  <li>🗄️ <b>Databases:</b> PostgreSQL, MySQL, MongoDB, Redis</li>
-  <li>☁️ <b>Cloud & DevOps:</b> AWS, GCP, Docker, CI/CD</li>
-  <li>🌐 <b>CMS:</b> WordPress</li>
-  <li>📈 <b>System Design & Architecture</b></li>
-  <li>🧑‍🤝‍🧑 <b>Team Leadership & Agile Practices</b></li>
-</ul>
-
----
-
-<!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chas523&show_icons=true&theme=tokyonight&hide_title=true" alt="Sergey's GitHub Stats" />
@@ -64,7 +78,6 @@
 
 ---
 
-<!-- Contact Section -->
 <h2 align="center">🌐 Let's Connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sergej-gojshik/">
@@ -73,10 +86,4 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <em>“Strive not to be a success, but rather to be of value.” – Albert Einstein</em>
 </p>
