@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Sergey+Goishyk" alt="Typing SVG" />
-</p>
 
-<p align="center">
+
+<p align="left">
   <a href="https://www.linkedin.com/in/sergej-gojshik/">
     <img src="https://img.shields.io/badge/LinkedIn-Sergey%20Goishyk-blue?style=for-the-badge&logo=linkedin" />
   </a>
