@@ -10,6 +10,11 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="![image1](image1)" alt="Anime Cat at Computer Old School" width="320"/>
+</p>
+
 ---
 
 ### About Me
