@@ -23,7 +23,7 @@ Open to collaboration, mentoring, and innovative projects.
 
 ### Tech Stack
 
-<p align="center" style="margin-bottom: 0;">
+<p align="left" style="margin-bottom: 0;">
   <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,nestjs,nodejs,express,python,django,php,symfony,html,css,sass,tailwind,redux,graphql,postgres,mysql,mongodb,redis,docker,aws,gcp,git,github,linux,wordpress" />
 </p>
 
