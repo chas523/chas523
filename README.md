@@ -17,7 +17,6 @@
 ### About Me
 
 Full-Stack Developer passionate about building scalable, efficient, and modern web applications.  
-Strong foundation in both frontend and backend technologies.  
 Open to collaboration, mentoring, and innovative projects.
 
 ---
