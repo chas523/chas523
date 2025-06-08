@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="luna-sailor-moon.gif" alt="Anime Cat at Computer Old School" width="320"/>
 </p>
 
