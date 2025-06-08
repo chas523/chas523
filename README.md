@@ -1,5 +1,3 @@
-
-
 <p align="left">
   <a href="https://www.linkedin.com/in/sergej-gojshik/">
     <img src="https://img.shields.io/badge/LinkedIn-Sergey%20Goishyk-blue?style=for-the-badge&logo=linkedin" />
@@ -31,9 +29,9 @@ Open to collaboration, mentoring, and innovative projects.
 
 ### What I Do
 
-<table align="left" style="width:95%; max-width:700px; font-size:1.04em;">
+<table style="width:100%; max-width:700px; font-size:1.04em; margin-left:0;">
   <tr>
-    <td width="25%"><b>Front-End:</b></td>
+    <td width="22%"><b>Front-End:</b></td>
     <td>Modern interfaces with React, Angular, Next.js, and TypeScript. Focus on UX/UI and responsive design.</td>
   </tr>
   <tr>
@@ -64,23 +62,17 @@ Open to collaboration, mentoring, and innovative projects.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chas523&show_icons=true&theme=tokyonight&hide_title=true" alt="Sergey's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chas523&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chas523&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
-</p>
+### 🌐 Let's Connect!
+<br>
 
----
-
-<h2 align="center">🌐 Let's Connect!</h2>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sergej-gojshik/">
     <img src="https://img.shields.io/badge/LinkedIn-Sergey%20Goishyk-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/chas523">
+    <img src="https://img.shields.io/badge/GitHub-chas523-black?style=for-the-badge&logo=github" />
   </a>
 </p>
