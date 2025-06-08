@@ -31,7 +31,7 @@ Open to collaboration, mentoring, and innovative projects.
 
 ### What I Do
 
-<table align="center" style="width:95%; max-width:700px; font-size:1.04em;">
+<table align="left" style="width:95%; max-width:700px; font-size:1.04em;">
   <tr>
     <td width="25%"><b>Front-End:</b></td>
     <td>Modern interfaces with React, Angular, Next.js, and TypeScript. Focus on UX/UI and responsive design.</td>
