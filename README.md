@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="![image1](image1)" alt="Anime Cat at Computer Old School" width="320"/>
+  <img src="luna-sailor-moon.gif" alt="Anime Cat at Computer Old School" width="320"/>
 </p>
 
 ---
