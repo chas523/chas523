@@ -10,11 +10,6 @@
   </a>
 </p>
 
-
-<p align="left">
-  <img src="luna-sailor-moon.gif" alt="Anime Cat at Computer Old School" width="320"/>
-</p>
-
 ---
 
 ### About Me
@@ -64,20 +59,3 @@ Open to collaboration, mentoring, and innovative projects.
     <td>Leadership, agile, code reviews, mentoring.</td>
   </tr>
 </table>
-
----
-
-### 🌐 Let's Connect!
-<br>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sergej-gojshik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergey%20Goishyk-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/chas523">
-    <img src="https://img.shields.io/badge/GitHub-chas523-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
